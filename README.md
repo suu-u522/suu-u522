@@ -17,7 +17,7 @@
 ## 🚀 Portfolio
 
 <a href="https://portfolio-c7p.pages.dev" target="_blank">
-  <img alt="portfolio" height="450px" src="https://github.com/shuuuu10-01/portfolio/blob/main/docs/portfolio.png" />
+  <img alt="portfolio" width="750px" src="https://github.com/shuuuu10-01/portfolio/blob/main/docs/portfolio.png" />
 </a>
 
 <!-- READMEの参考にさせていただいた記事 https://qiita.com/mmnn/items/cf465d271171cba8bd51 -->
