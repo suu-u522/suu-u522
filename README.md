@@ -1,8 +1,3 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=shuuuu10-01" />
-</div>
-
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a frontend engineer.
@@ -21,7 +16,7 @@
 
 ## 🚀 Portfolio
 
-<a href="https://portfolio-c7p.pages.dev/">
+<a href="https://portfolio-c7p.pages.dev" target="_blank">
   <img alt="portfolio" height="450px" src="https://github.com/shuuuu10-01/portfolio/blob/main/docs/portfolio.png" />
 </a>
 
