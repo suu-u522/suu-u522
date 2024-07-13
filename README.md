@@ -16,7 +16,7 @@
 
 ## 🚀 Portfolio
 
-<a href="https://portfolio-c7p.pages.dev" target="_blank">
+<a href="https://suu-u.com" target="_blank">
   <img alt="portfolio" width="750px" src="https://github.com/shuuuu10-01/portfolio/blob/main/docs/portfolio.png" />
 </a>
 
